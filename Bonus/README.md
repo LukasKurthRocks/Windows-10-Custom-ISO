@@ -1,8 +1,7 @@
 # Windows-10-Builder
 
 ## Allgemeines
-Dann schiebe ich das mal hier hin.
-Ich wollte die ganze Zeit schon ein paar Scripot zu eigenen WIndows...
+Hiermit lassen sich die Update-Dateien fetchen, wenn diese über Windows Update von Microsoft geladen werden. Ich brauche das nicht mehr und werde das auch nicht weiter fortführen. Normalerweise sollte man wohl die MS ISOs vom VS MSDN laden (Dev Account benötigt).
 
 ## Vorgehensweisen
 ### Voraussetzungen
@@ -28,17 +27,9 @@ Ich habe es öfters versucht die RSAT Dateien von uupdump zu laden und zu implem
 
 ## Checklisten
 ### ToDo
-- [ ] Anpassen
-  - [ ] Eigene Scripts mit OSDBuilder?
-    - [ ] Wie beim [Frogger Beispiel](https://osdbuilder.osdeploy.com/docs/contentpacks/recipes/frogger)
-  - [ ] OneDrive ausschließen (Update)
-  - [ ] New-OSBuildTask -SourcesLanguageCopy
-  - [ ] [New-OSBuildTask (Doc)](https://osdbuilder.osdeploy.com/#new-osbuildtask) (MS Dart, PeADK, Drivers, ExtraFiles, PSScripts ...)
-- [ ] PEADK/PE Language
-- [ ] Umbenennen in Downloader packen!!
-- [ ] Anderes
-  - [ ] Erklärung zur Ordner Struktur
-  - [ ] SCCM Task Sequence?
+- [ ] Netzwerkverkehr überwachen mit [Fiddler](https://www.telerik.com/fiddler)
+  - [ ] [Fiddler HTTPS Help](https://www.telerik.com/forums/fiddler-to-get-https-direct-download-links)
+
 ### Erledigt
 - [ ] PEADK/PE Language
 - [ ] [Content WinPE DaRT](https://osdbuilder.osdeploy.com/docs/osbuild/new-osbuildtask/winpe-content-parameters/contentwinpedart)
@@ -49,7 +40,6 @@ Ich habe es öfters versucht die RSAT Dateien von uupdump zu laden und zu implem
   - [Create MultiLang ISO with OSDBuilder (DeploymentResearch.com)](https://deploymentresearch.com/using-osd-builder-to-create-a-multi-language-windows-10-image/)
   - [OSDBuilder - PeADKLang](https://osdbuilder.osdeploy.com/docs/contentpacks/multilang-content/peadklang)
 - Andere
-  - https://github.com/LukasKurthRocks/PowerShell-Gathering-RSAT-Files
   - [20H2 - Search Files 'RSAT'](https://uupdump.ml/findfiles.php?id=2d91ec01-3f2c-4b75-8cfa-bcfcf5620080&q=FOD)
   - [Windows 10 KMS Keys](https://gist.github.com/Azhe403/d261f2aadccfc2fb20e00414342a3093)
   - [MS DaRT Download](https://docs.microsoft.com/en-us/microsoft-desktop-optimization-pack/dart-v10/)

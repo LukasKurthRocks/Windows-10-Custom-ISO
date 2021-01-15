@@ -126,7 +126,7 @@ $MissingCapabilities | ForEach-Object {
 
     # as long as there is a dism process running
     Write-Verbose "[$(Get-Date -Format "HH:mm:ss")] DISM running for $CapabilityName, starting robocopy ..."
-    while(Get-Process DISM -ErrorAction SilentlyContinue) {
+    while (Get-Process DISM -ErrorAction SilentlyContinue) {
         # copy files to desktop folder
         #Write-Verbose "[$(Get-Date -Format "HH:mm:ss")] DISM running for $CapabilityName, starting robocopy ..."
         $null = Robocopy "$env:windir\SoftwareDistribution" "$Folder\files\$OSBuild\$Bittage" /E /R:0 /W:0 /V /Unilog+:"$LoggingFolder\$RoboLog" /NDL /NP /ETA
