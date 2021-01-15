@@ -1,0 +1,90 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Control Panel\International\User Profile]
+"Languages"=hex(7):64,00,65,00,2d,00,44,00,45,00,00,00,65,00,6e,00,2d,00,55,00,\
+  53,00,00,00,73,00,76,00,2d,00,53,00,45,00,00,00,68,00,75,00,00,00,66,00,72,\
+  00,2d,00,46,00,52,00,00,00,00,00
+"ShowAutoCorrection"=dword:00000001
+"ShowTextPrediction"=dword:00000001
+"ShowCasing"=dword:00000001
+"ShowShiftLock"=dword:00000001
+
+[HKEY_CURRENT_USER\Control Panel\International\User Profile\de-DE]
+"0407:00000407"=dword:00000001
+"CachedLanguageName"="@Winlangdb.dll,-1092"
+
+[HKEY_CURRENT_USER\Control Panel\International\User Profile\en-US]
+"CachedLanguageName"="@Winlangdb.dll,-1121"
+"0409:00000409"=dword:00000001
+"FeaturesToInstall"=dword:000000ff
+
+[HKEY_CURRENT_USER\Control Panel\International\User Profile\fr-FR]
+"CachedLanguageName"="@Winlangdb.dll,-1165"
+"040C:0000040C"=dword:00000001
+
+[HKEY_CURRENT_USER\Control Panel\International\User Profile\hu]
+"CachedLanguageName"="@Winlangdb.dll,-1211"
+"040E:0000040E"=dword:00000001
+"FeaturesToInstall"=dword:000000f3
+
+[HKEY_CURRENT_USER\Control Panel\International\User Profile\sv-SE]
+"CachedLanguageName"="@Winlangdb.dll,-1558"
+"041D:0000041D"=dword:00000001
+"FeaturesToInstall"=dword:000000f7
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\CTF\SortOrder\Language]
+"00000000"="00000407"
+"00000001"="00000409"
+"00000002"="0000041d"
+"00000003"="0000040e"
+"00000004"="0000040c"
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Internet Explorer\International]
+"AcceptLanguage"="de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7,sv-SE;q=0.6,sv;q=0.4,hu;q=0.3,fr-FR;q=0.2,fr;q=0.1"
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"PreviousPreferredUILanguages"=hex(7):64,00,65,00,2d,00,44,00,45,00,00,00,00,\
+  00
+"PreferredUILanguages"=hex(7):64,00,65,00,2d,00,44,00,45,00,00,00,00,00
+"PreferredUILanguagesPending"=hex(7):64,00,65,00,2d,00,44,00,45,00,00,00,00,00
+
+[HKEY_CURRENT_USER\Control Panel\Desktop\LanguageConfiguration]
+"de-DE"=hex(7):65,00,6e,00,2d,00,55,00,53,00,00,00,00,00
+
+[HKEY_CURRENT_USER\Control Panel\Desktop\MuiCached]
+"MachinePreferredUILanguages"=hex(7):64,00,65,00,2d,00,44,00,45,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\CTF\SortOrder\AssemblyItem\0x00000407\{34745C63-B2F0-4784-8B67-5E12C8701A31}\00000000]
+"CLSID"="{00000000-0000-0000-0000-000000000000}"
+"KeyboardLayout"=dword:04070407
+"Profile"="{00000000-0000-0000-0000-000000000000}"
+
+[HKEY_CURRENT_USER\Keyboard Layout\Preload]
+"1"="00000407"
+"2"="00000409"
+"3"="0000040c"
+"4"="0000040e"
+"5"="0000041d"
+
+[HKEY_CURRENT_USER\Software\Microsoft\CTF\TIP\{03B5835F-F03C-411B-9CE2-AA23E1171E36}\LanguageProfile\0x00000411\{A76C93D9-5523-4E90-AAFA-4DB112F9AC76}]
+"Enable"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\CTF\TIP\{8613E14C-D0C0-4161-AC0F-1DD2563286BC}\LanguageProfile\0x0000ffff\{B37D4237-8D1A-412E-9026-538FE16DF216}]
+"Enable"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\CTF\Assemblies\0x00000407\{34745C63-B2F0-4784-8B67-5E12C8701A31}]
+"Default"="{00000000-0000-0000-0000-000000000000}"
+"Profile"="{00000000-0000-0000-0000-000000000000}"
+"KeyboardLayout"=dword:04070407
+
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\CTF\HiddenDummyLayouts]
+
+
+[HKEY_CURRENT_USER\Control Panel\International\LanguageComponentsInstallation\Basic]
+
+[HKEY_CURRENT_USER\Control Panel\International\LanguageComponentsInstallation\Fonts]
+
+[HKEY_CURRENT_USER\Control Panel\International\LanguageComponentsInstallation\OCR]
+
+

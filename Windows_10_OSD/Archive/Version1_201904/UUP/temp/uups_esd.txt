@@ -1,0 +1,4 @@
+core_de-de.esd
+professional_de-de.esd
+coren_de-de.esd
+professionaln_de-de.esd

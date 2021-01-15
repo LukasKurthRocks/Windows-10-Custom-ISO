@@ -1,0 +1,66 @@
+Type;Path;Key;Value;ValueType;Enabled;Description
+DEFAULT_USER;Console;QuickEdit;1;DWORD;True;QuickEdit Mode in CMD/PowerShell
+DEFAULT_USER;Software\Microsoft\Clipboard;EnableClipboardHistory;1;DWORD;True;Clipboard History (1903, open with WIN+V)
+DEFAULT_USER;Software\Microsoft\InputPersonalization\TrainedDataStore;HarvestContacts;0;DWORD;True;Prevents sending contacts to MS (so Cortana can compare speech etc samples)
+DEFAULT_USER;Software\Microsoft\Office\16.0\Common;UI Theme;4;DWORD;True;Office Dark Mode
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;ContentDeliveryAllowed;0;DWORD;True;CDM: Verhindern dass sich die Bloatware Apps wieder installieren
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;FeatureManagementEnabled;0;DWORD;True;CDM: Verhindern dass sich die Bloatware Apps wieder installieren
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;OemPreInstalledAppsEnabled;0;DWORD;True;CDM: Verhindern dass sich die Bloatware Apps wieder installieren
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;PreInstalledAppsEnabled;0;DWORD;True;CDM: Verhindern dass sich die Bloatware Apps wieder installieren
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;PreInstalledAppsEverEnabled;0;DWORD;True;CDM: Verhindern dass sich die Bloatware Apps wieder installieren
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;SilentInstalledAppsEnabled;0;DWORD;True;CDM: Verhindern dass sich die Bloatware Apps wieder installieren
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;SubscribedContent-314559Enabled;0;DWORD;True;CDM: Verhindern dass sich die Bloatware Apps wieder installieren
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;SubscribedContent-338387Enabled;0;DWORD;True;CDM: Verhindern dass sich die Bloatware Apps wieder installieren
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;SubscribedContent-338388Enabled;0;DWORD;True;CDM: Verhindern dass sich die Bloatware Apps wieder installieren
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;SubscribedContent-338389Enabled;0;DWORD;True;CDM: Verhindern dass sich die Bloatware Apps wieder installieren
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;SubscribedContent-338393Enabled;0;DWORD;True;CDM: Verhindern dass sich die Bloatware Apps wieder installieren
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;SubscribedContentEnabled;0;DWORD;True;CDM: Verhindern dass sich die Bloatware Apps wieder installieren
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager;SystemPaneSuggestionsEnabled;0;DWORD;True;CDM: Verhindern dass sich die Bloatware Apps wieder installieren
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced;LaunchTo;1;DWORD;True;QuickAccess => ThisPC
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced;Hidden;1;DWORD;True;Show hidden files and folders
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced;HideFileExt;0;DWORD;True;Show file extensions
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced;AutoCheckSelect;1;DWORD;True;File Checkboxes
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced;Start_ShowMyGames;0;DWORD;True;Don't add a Games shortcut to the start menu
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced;DisallowShaking;1;DWORD;True;Disable Aero-Shake
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\People;PeopleBand;0;DWORD;True;Disable People Bar
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\People;TaskbarCapacity;0;DWORD;True;Disable People Bar
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\Policies\Explorer;NoAutoTrayNotify;1;DWORD;True;Show all symbols on taskbar
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\Policies\Explorer;NoStartMenuMorePrograms;2;DWORD;True;Collapse start menu
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\Policies\Explorer;NoDesktopCleanupWizard;1;DWORD;True;"No ""Desktop CleanUp Wizard"""
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\Policies\Explorer;NoInternetIcon;1;DWORD;True;No IE Icon
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\Policies\DataCollection;AllowTelemetry;0;DWORD;True;"Diagnostic Data send to MS. 0 = Off (Enterprise Only); 1 = Basic"
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\Search;SearchboxTaskbarMode;0;DWORD;True;Hide Cortana Bar
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\Themes\Personalize;AppsUseLightTheme;0;DWORD;True;Black Theme (will get reset with user setting)
+DEFAULT_USER;Software\Microsoft\Windows\CurrentVersion\Themes\Personalize;SystemUsesLightTheme;0;DWORD;True;Dark Settings + Dark Explorer
+DEFAULT_USER;Software\Microsoft\Personalization\Settings;AcceptedPrivacyPolicy;0;DWORD;True;Prevents sending speech, inking and typing samples to MS (so Cortana can learn to recognise you)
+DEFAULT_USER;Software\Policies\Microsoft\Windows\Explorer;NoPinningStoreToTaskbar;1;DWORD;True;Remove MS Store from taskbar
+DEFAULT_USER;Software\Policies\Microsoft\Windows\Explorer;HideRecentlyAddedApps;1;DWORD;True;"Hide ""Recently Added"""
+DEFAULT_USER;Software\Policies\Microsoft\Windows\Explorer;HidePeopleBar;1;DWORD;True;Hide Contacts/People Bar
+HKLM_SOFTWARE;Microsoft\Windows\CurrentVersion\Policies\Explorer;NoStartMenuMorePrograms;2;DWORD;True;Collapse Start Menu
+HKLM_SOFTWARE;Microsoft\Windows\CurrentVersion\Policies\System;EnableLUA;0;DWORD;True;No UAC prompt
+HKLM_SOFTWARE;Microsoft\Windows\CurrentVersion\Policies\System;ConsentPromptBehaviorAdmin;0;DWORD;True;No UAC prompt
+HKLM_SOFTWARE;Microsoft\Windows\CurrentVersion\Policies\System;EnableFirstLogonAnimation;0;DWORD;True;Disable Logon Microsoft Message
+HKLM_SOFTWARE;Microsoft\Windows Search;AllowCortana;0;DWORD;True;ShutUp Cortana
+HKLM_SOFTWARE;Microsoft\Windows Search;AllowCortanaAboveLock;0;DWORD;True;ShutUp Cortana
+HKLM_SOFTWARE;Microsoft\Windows Search;BingSearchEnabled;0;DWORD;True;ShutUp Cortana
+HKLM_SOFTWARE;Microsoft\Windows Search;ConnectedSearchUseWeb;0;DWORD;True;ShutUp Cortana
+HKLM_SOFTWARE;Microsoft\Windows Search;DisableWebSearch;1;DWORD;True;ShutUp Cortana
+HKLM_SOFTWARE;Microsoft\Windows NT\CurrentVersion\Winlogon;EnableFirstLogonAnimation;0;DWORD;True;Disable Logon Microsoft Message
+HKLM_SOFTWARE;Policies\Microsoft\WindowsStore;AutoDownload;2;DWORD;True;Windows Store Auto Download (2 = always off, 4 = always on, delete = user choice)
+HKLM_SOFTWARE;Policies\Microsoft\Windows\CloudContent;DisableWindowsConsumerFeatures;1;DWORD;True;"Prevents ""Suggested Applications"" returning"
+HKLM_SOFTWARE;Policies\Microsoft\Windows\Explorer;HideRecentlyAddedApps;1;DWORD;True;"Hide ""Recently Added Apps"" from Start Menu"
+HKLM_SOFTWARE;Policies\Microsoft\Windows\Explorer;NoUseStoreOpenWith;1;DWORD;True;When opening files with an unknown extension, dont prompt to 'Look for an app in the Store'
+HKLM_SOFTWARE;Policies\Microsoft\Windows\Explorer;NoNewAppAlert;1;DWORD;True;"No info like ""new app x has been installed"""
+HKLM_SOFTWARE;Policies\Microsoft\Windows\Windows Search;AllowCortana;0;DWORD;True;ShutUp Cortana
+HKLM_SOFTWARE;Policies\Microsoft\Windows\Windows Search;AllowCortanaAboveLock;0;DWORD;True;ShutUp Cortana
+HKLM_SOFTWARE;Policies\Microsoft\Windows\Windows Search;BingSearchEnabled;0;DWORD;True;ShutUp Cortana
+HKLM_SOFTWARE;Policies\Microsoft\Windows\Windows Search;ConnectedSearchUseWeb;0;DWORD;True;ShutUp Cortana
+HKLM_SOFTWARE;Policies\Microsoft\Windows\Windows Search;DisableWebSearch;1;DWORD;True;ShutUp Cortana
+HKLM_SOFTWARE;Software\Policies\Microsoft\Windows\AppPrivacy;LetAppsAccessCamera;2;DWORD;True;0 = user control, 1 = allow, 2 = deny
+HKLM_SOFTWARE;Software\Policies\Microsoft\Windows\WindowsUpdate\AU;AUOptions;3;DWORD;True;2 = always notify, 3 = download and notify on installation, 4 install on shedule, 5 = local admin settings
+HKLM_SOFTWARE;Software\Policies\Microsoft\Windows\WindowsUpdate\AU;ScheduledInstallDay;0;DWORD;True;Scheduled after x days. 0 = daily
+HKLM_SOFTWARE;Software\Policies\Microsoft\Windows\WindowsUpdate\AU;SchuduledInstallTime;3;DWORD;True;Schedules at time x. 3 = 3:00 AM
+HKLM_SOFTWARE;Software\Policies\Microsoft\Windows\WindowsUpdate\AU;NoAutoRebootWithLoggedOnUsers ;1;DWORD;True;Stop rebooting when users are logged on.
+HKLM_SOFTWARE;Wow6432Node\Policies\Microsoft\Windows\OneDrive;DisableFileSyncNGSC;1;DWORD;True;Disable OneDrive FileSync (Only when entry in Settings.ini is = 1)
+HKLM_SYSTEM;CurrentControlSet\Control\Network\NewNetworkWindowOff;;;;False;"""New Network Found"" Window Prompt. Does not work, using Unattended.xml instead"
+HKLM_SYSTEM;ControlSet001\Control\Network\NewNetworkWindowOff;;;;False;"""New Network Found"" Window Prompt. Does not work, using Unattended.xml instead"

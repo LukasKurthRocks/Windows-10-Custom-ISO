@@ -1,0 +1,7 @@
+﻿Allgemeine Informationen
+
+# Der hier geht nicht, da steht das Setup (vielleicht wegen allgemeinen Netzwerkeinstellungen?)
+
+;Disable window selecting network info
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Network\NewNetworkWindowOff]
+"NewNetworkWindowOff"=dword:00000001

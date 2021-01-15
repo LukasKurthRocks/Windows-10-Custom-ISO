@@ -1,0 +1,4 @@
+﻿Ein erster Versuch die RSAT über die IsoExtract Folder zu implementieren schlug leider fehl.
+Nächster Versuch: Ein ContentPack vom Type "OS".
+=> New-OSDBuilderContentPack -Name "FOD RSAT MultiLang" -ContentType OS
+=> C:\OSDBuilder\ContentPacks\FOD RSAT MultiLang\OSCapability\2009 x64 RSAT

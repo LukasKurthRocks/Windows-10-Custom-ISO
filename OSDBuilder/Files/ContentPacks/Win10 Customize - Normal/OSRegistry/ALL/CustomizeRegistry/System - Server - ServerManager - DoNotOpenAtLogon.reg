@@ -1,0 +1,7 @@
+﻿Windows Registry Editor Version 5.00
+
+; Do not show the ServerManager on Logon (SERVER ONLY)
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Server\ServerManager]
+"DoNotOpenAtLogon"=dword:00000001
+;"DoNotOpenAtLogon"=-

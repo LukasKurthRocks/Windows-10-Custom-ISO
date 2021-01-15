@@ -1,0 +1,8 @@
+﻿Windows Registry Editor Version 5.00
+
+; Setting RDP. Will not enable firewall rule.
+; Enable-NetFirewallRule -Name "RemoteDesktop*"
+; THIS WILL NOT WORK, PUTTING IT INTO AUTOUNATTEND.XML INSTEAD!!
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server]
+"fDenyTSConnections"=dword:00000000 ; 0 = Enable RDP, 1 = Disable RDP (default)

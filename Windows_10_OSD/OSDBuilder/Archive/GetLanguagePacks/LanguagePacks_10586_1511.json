@@ -1,0 +1,894 @@
+{
+    "X86": [
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_20f1d79ceb3e59d2f184c25c1ce68ebe653b3817.cab",
+            "Name": "languagepack_af-ZA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_50b980f49d0675f39b914d36aa9f75e8ca184ecd.cab",
+            "Name": "languagepack_am-ET.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_a129f6fb879e8a9cbd21046044bffd17a75b942e.cab",
+            "Name": "languagepack_ar-SA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_ec7463803412f27b5295b2f05bd601571ef2455b.cab",
+            "Name": "languagepack_as-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_97b6a156f338671a831d719abd0431bb8503849d.cab",
+            "Name": "languagepack_az-LATN-AZ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_6d6507f08999f143096771aadf7128365f5417e8.cab",
+            "Name": "languagepack_be-BY.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_5d7883d0bc9b91a58fad2ff065453b2d0a34db3b.cab",
+            "Name": "languagepack_bg-BG.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_de6463b469e5aee2eaad95191c6ae806c2e7017c.cab",
+            "Name": "languagepack_bn-BD.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_bc997b8b470a117dcfad3a864dda87212d1e8c00.cab",
+            "Name": "languagepack_bn-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_19d0f4427c066b6e31b729c6eb4cfec9ec957a1d.cab",
+            "Name": "languagepack_bs-LATN-BA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_25ba814c8de5b2bd01a957f95dc72e830828397d.cab",
+            "Name": "languagepack_ca-ES.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_0105812523cc071234fa332fdb7f4f88c1edefaa.cab",
+            "Name": "languagepack_ca-ES-VALENCIA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_d724ce1553e8cddd49e15956f2196e6412d9f60e.cab",
+            "Name": "languagepack_chr-CHER-US.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_53d822844ee17ffa98557e90cec378a5f19595a3.cab",
+            "Name": "languagepack_cs-CZ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_97e459511e14af7d9a1564af11497d66167dba06.cab",
+            "Name": "languagepack_cy-GB.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_a54ef9acad4257c5a7eaa98611cce4d28ecd4109.cab",
+            "Name": "languagepack_da-DK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_9268bfefa63a82965df54a78af9074279b11bc20.cab",
+            "Name": "languagepack_de-DE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_e9a9fbab875249e726064ac222c71ca4d0bd9cd0.cab",
+            "Name": "languagepack_el-GR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_01c913db49c1dc911dfa69140ffca3cdf5ab4f9c.cab",
+            "Name": "languagepack_en-GB.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_884bf1d8230c008e30bf4c2d06d1077c0ef6adb5.cab",
+            "Name": "languagepack_en-US.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_ab48e731d5f98e68d853960f83341887f0d29f3e.cab",
+            "Name": "languagepack_es-ES.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_733ae2048e292bbae3e0b900d0bb0f8e64f98167.cab",
+            "Name": "languagepack_es-MX.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_abcc7928b396bb265efcfdcc818027822dced30c.cab",
+            "Name": "languagepack_et-EE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_5d888266021653beaef118f3474a20ed6dc67523.cab",
+            "Name": "languagepack_eu-ES.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_5dc901436f927690a1d0f47fec75e3116946948f.cab",
+            "Name": "languagepack_fa-IR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_fcfb7b0fe4dee44ea71b91c7a9f54e92ce519d02.cab",
+            "Name": "languagepack_fi-FI.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_5779ad3b9f14c1cccd39ba4b083104ae8e85cd84.cab",
+            "Name": "languagepack_fil-PH.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_459ab17b2487d92cbc27c58dfc2e4a0ba3d7ddeb.cab",
+            "Name": "languagepack_fr-CA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_8fef6c231f656c59c95c4871d0c39c1d7863cc5a.cab",
+            "Name": "languagepack_fr-FR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_23f3e5fbb68288592d1fc243cf53d6f121190eca.cab",
+            "Name": "languagepack_ga-IE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_6ad5919f3d727a202448130a7c0451584d237fbd.cab",
+            "Name": "languagepack_gd-GB.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_e5e98072e7c9fc84b870bfcb158f2ad82bf6edc5.cab",
+            "Name": "languagepack_gl-ES.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_87699c209363de18d057a27323c913caa14619d0.cab",
+            "Name": "languagepack_gu-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_3bb9b2c8712b5c27f93ae6edfcb0c47fe478781a.cab",
+            "Name": "languagepack_ha-LATN-NG.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_16add46479b60d859548574c014c2014cb03b451.cab",
+            "Name": "languagepack_he-IL.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_7a552a71e39b4141f94cf85553a2f2eee39e3c3f.cab",
+            "Name": "languagepack_hi-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_27fb91f211b036114cdfedb1ad7d779e40b318de.cab",
+            "Name": "languagepack_hr-HR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_48cbfb51378c9f11e5af430403a9fac70bba05f4.cab",
+            "Name": "languagepack_hu-HU.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_20294f46e05b8bbe0bfc2dc742b4da05826f75db.cab",
+            "Name": "languagepack_hy-AM.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_699aca399373cf6a46a247aaf45e0a823e671476.cab",
+            "Name": "languagepack_id-ID.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_76672b3fd9a101bd8bc047da21ede46c7728aa48.cab",
+            "Name": "languagepack_ig-NG.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_8966d6e4c5a8782aaf9292d783d357e5bdb00947.cab",
+            "Name": "languagepack_is-IS.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_5cc0cc952259608b0f025fda76d3f2b70a4106e6.cab",
+            "Name": "languagepack_it-IT.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_abceab90d77cb4238373122a0c1f2624ccaaad75.cab",
+            "Name": "languagepack_ja-JP.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_2f7a881970b4d0518012f065446a967acbc6dd7b.cab",
+            "Name": "languagepack_ka-GE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_2ebf839a085f1526f3287ec90a2ff0781060ba8a.cab",
+            "Name": "languagepack_kk-KZ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_32a4f4e5f371d403732a5b9b08051ad84a474d24.cab",
+            "Name": "languagepack_km-KH.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_845fb43b0d2248516d9cb1dc0004431e9475c758.cab",
+            "Name": "languagepack_kn-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_dac9310ce5003c1f98d2047b96baee32537f19f9.cab",
+            "Name": "languagepack_ko-KR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_889e070bf5f35ddb83828864546ed61e55ed5371.cab",
+            "Name": "languagepack_kok-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_ae7dbb13df01ec67e719b6a161754ca55e7a1e08.cab",
+            "Name": "languagepack_ku-ARAB-IQ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_5a5f0f1c007a57cd83716b6662cdb3d86270398b.cab",
+            "Name": "languagepack_ky-KG.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_336420f66d817918de5011c05dffec213b0dbf67.cab",
+            "Name": "languagepack_lb-LU.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_3a92544392feacdb027db36f7b35ef28a4374a69.cab",
+            "Name": "languagepack_lo-LA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_74198d325ebe100388b938d88e0112c394124fa3.cab",
+            "Name": "languagepack_lt-LT.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_4924d9087ea39edfb4da43825b0fde373affecc3.cab",
+            "Name": "languagepack_lv-LV.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_33ab24bcd6ff1d9015cff98cac78cdf217993f88.cab",
+            "Name": "languagepack_mi-NZ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_cebb94e0899862ac7621841a6e3f9230ba581e27.cab",
+            "Name": "languagepack_mk-MK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_11ec0b667b5e2e93858d24fa74212a95351112a8.cab",
+            "Name": "languagepack_ml-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_75cbf7cfc70a5ddbe82a99041aaa23aa61534e2f.cab",
+            "Name": "languagepack_mn-MN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_c9fa493a3147de125de395f050a1f7bd31ce5a23.cab",
+            "Name": "languagepack_mr-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_8db4e5a111be6341339cad42d4847bdcfae55e5d.cab",
+            "Name": "languagepack_ms-MY.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_14062442451a05b250f0bdfabe6df67f03e1b441.cab",
+            "Name": "languagepack_mt-MT.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_6072065820b7b57d766867de61147fdb3d95ebcc.cab",
+            "Name": "languagepack_nb-NO.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_99009cd57dd8dfb839010275fcac9e9eb30274ca.cab",
+            "Name": "languagepack_ne-NP.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_139f2171b2945c497a0f92b4a995102cdf74bd1b.cab",
+            "Name": "languagepack_nl-NL.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_dcbd79e33505e9db41bb4e71b401ffaecb148055.cab",
+            "Name": "languagepack_nn-NO.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_20c9bf58c3355c47c336b3037de296524a9d7e31.cab",
+            "Name": "languagepack_nso-ZA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_c32ae5ecdb235f78651c305a2ff30c1fc8a958c0.cab",
+            "Name": "languagepack_or-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_aa967a7d271d903307dd1d7355259513a3390ed6.cab",
+            "Name": "languagepack_pa-ARAB-PK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_3e40996a442b02fddc1192b4738dd50f1e40333e.cab",
+            "Name": "languagepack_pa-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_698585fa7a9b499ec095b56c77f8c226ee07852a.cab",
+            "Name": "languagepack_pl-PL.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_61ab34c8280a2d22ed7014355d3e802368ac144b.cab",
+            "Name": "languagepack_prs-AF.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_d32803916f3606fb5e137147dd848fe4922f6d02.cab",
+            "Name": "languagepack_pt-BR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_94f3b5fe92f251752e7f4fa1866e551538f5d177.cab",
+            "Name": "languagepack_pt-PT.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_003f45ce0fb72462075879bf6e4dbfc48b4bc137.cab",
+            "Name": "languagepack_quc-LATN-GT.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_d92eb29b4e446be87ad087b373f28c737bbe39d1.cab",
+            "Name": "languagepack_quz-PE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_21311f5c29635d6e69c74ac527e6d6766ca936c9.cab",
+            "Name": "languagepack_ro-RO.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_4e94c21dc64601be169d1658f63066da76889630.cab",
+            "Name": "languagepack_ru-RU.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_9d5ad1dc276a871944d1dcfd19b0615d4a9beaff.cab",
+            "Name": "languagepack_rw-RW.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_c91a607df7f7d7e5ae52c6b957862af0a55621f4.cab",
+            "Name": "languagepack_sd-ARAB-PK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_26a7ce9302044c437841348d881b1dfb8e5f1cfb.cab",
+            "Name": "languagepack_si-LK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_975d359a526861bd8c2a42d58d4f509128090407.cab",
+            "Name": "languagepack_sk-SK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_3d64e5173a6cc130b76b91497eb25975d8e91387.cab",
+            "Name": "languagepack_sl-SI.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_db5c0a25ccd6a6cc655c1ae181185f893892505a.cab",
+            "Name": "languagepack_sq-AL.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_88d1c9c9d009b4e22e266403472741fad88f187e.cab",
+            "Name": "languagepack_sr-CYRL-BA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_ebae04f8cecd0886a4faedd314de52644da9bc39.cab",
+            "Name": "languagepack_sr-CYRL-RS.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_2f9150feec619f388ec6b92f1355abfb97c47ba1.cab",
+            "Name": "languagepack_sr-LATN-RS.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_e3e8de7078f47b42c97edecbbc7c07b4592ce249.cab",
+            "Name": "languagepack_sv-SE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_40272a5c0aec3e0c1a3b6a7083459a4795500ec9.cab",
+            "Name": "languagepack_sw-KE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_60157e3d30d6d01912ec5879ca33bc8a8ffdfdfb.cab",
+            "Name": "languagepack_ta-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_19e3432702c512104f9564cc58b952d2e792ce8f.cab",
+            "Name": "languagepack_te-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_a0375bcebf3a4a2063ecd85015102686d1353a6c.cab",
+            "Name": "languagepack_tg-CYRL-TJ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_896cf87c464330f537c1cff1e7332a853d6f5c34.cab",
+            "Name": "languagepack_th-TH.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_6238599db4d2bd7030858ddea96f9c7bd3903c83.cab",
+            "Name": "languagepack_ti-ET.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_fe52bca2bdc04934f34e626362e387b841447d04.cab",
+            "Name": "languagepack_tk-TM.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_7ff6d6d3c89acbcb28d58f10836bddbe499997e6.cab",
+            "Name": "languagepack_tn-ZA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_a24c6223e272ad84007e39e6c9b8c28e955d20c9.cab",
+            "Name": "languagepack_tr-TR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_a30e15dc6d6ab22a1f2e2333e36d3160b1a5a763.cab",
+            "Name": "languagepack_tt-RU.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_a19352053f788b97221768ea95a3526bcaaab0e4.cab",
+            "Name": "languagepack_ug-CN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_7bb7f51f57eca4ef92b2ad96dbcc90455b13a47d.cab",
+            "Name": "languagepack_uk-UA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_fbdb01f04a64b6734f742cd83c15fcb01e8d9e21.cab",
+            "Name": "languagepack_ur-PK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_4342150a6b5c8a1e23ae61490d7e33f25e0a15f1.cab",
+            "Name": "languagepack_uz-LATN-UZ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_a9b7ed24587e42824f425f1a2950dff293ffc6b1.cab",
+            "Name": "languagepack_vi-VN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_f29d3acc89cd92c8bb0b767a434962cb5fa6dd1c.cab",
+            "Name": "languagepack_wo-SN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_e2f9a77325c86fa9f8516fdc579a2c048bada1ef.cab",
+            "Name": "languagepack_xh-ZA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_5934ac92bfd0b120a5b3c263681caf9e48ab8bf0.cab",
+            "Name": "languagepack_yo-NG.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_1da5cafdb54cde6cc8aadd3d7c91c35ab8987a5f.cab",
+            "Name": "languagepack_zh-CN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_8fe6bad0048c5609a8eb992089f24568a2274491.cab",
+            "Name": "languagepack_zh-HK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_46b35538017b5b26bea7beef2e59843d050ea097.cab",
+            "Name": "languagepack_zh-TW.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_5e980d93fc3e2d7d211d693e056eda004b3cc5b2.cab",
+            "Name": "languagepack_zu-ZA.cab"
+        }
+    ],
+    "X64": [
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_304131070e2dd0be37d97e8f0e9734a1cc1e5258.cab",
+            "Name": "languagepack_af-ZA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_17bfdfe30b593ed6bca5041fde9caa45e338605e.cab",
+            "Name": "languagepack_am-ET.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_6637a400aabbe68088dd60d63a278d72f664ea85.cab",
+            "Name": "languagepack_ar-SA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_5633a1fa4eb1139fea55dacc28c338dfb7c28aea.cab",
+            "Name": "languagepack_as-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_fc3bec88fc316cacd238120047fb232e34dc255f.cab",
+            "Name": "languagepack_az-LATN-AZ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_2187d83d90ac731e09f1b4c1749a415630595632.cab",
+            "Name": "languagepack_be-BY.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_e6ae593018fd427f8022a1587aa2928ef535a1bc.cab",
+            "Name": "languagepack_bg-BG.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_f848faa202960da49df4fa8dbc9cedad81bb7e3f.cab",
+            "Name": "languagepack_bn-BD.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_6f0f8723619cb2b7084ffbef66ac4fa06c4fd2e3.cab",
+            "Name": "languagepack_bn-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_c6570ce4edc7ac6348d0cc409b9adef1efcfb268.cab",
+            "Name": "languagepack_bs-LATN-BA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_89bb1bfdfb1b28d3366de550361ff0a498ef8f9a.cab",
+            "Name": "languagepack_ca-ES.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_b5f2c54b40254a867fde9b38b03878278b885286.cab",
+            "Name": "languagepack_ca-ES-VALENCIA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_5cb87049102ea15b824a751caa3649aad9f42363.cab",
+            "Name": "languagepack_chr-CHER-US.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_ae9efaa8187d51c360223a438194fff04503709b.cab",
+            "Name": "languagepack_cs-CZ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_9dafaf6d4d575737c01cef818db4a5fcbcdfe38c.cab",
+            "Name": "languagepack_cy-GB.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_9776f16b42a998214c80cbe013a9e6acd6726fdd.cab",
+            "Name": "languagepack_da-DK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_5c4aac6b290e2bdf305298fa0f4c49ad31c2e5f1.cab",
+            "Name": "languagepack_de-DE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_668add2f19af0439f38d2adc4d5cbef71c3536a6.cab",
+            "Name": "languagepack_el-GR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_b60be9ebdcd67432e738ae082021383c14ede051.cab",
+            "Name": "languagepack_en-GB.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_cde3e6fcf3e36d655948c41fc1dd847c09f7d23f.cab",
+            "Name": "languagepack_en-US.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_47afd6de9c3f3f5e56eb65a4232ebb76b9d77c60.cab",
+            "Name": "languagepack_es-ES.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_fc6d97b2a4400652ced512f38218c316a020441f.cab",
+            "Name": "languagepack_es-MX.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_1051ab774c0df0942223198b8cd25ec8672afcfd.cab",
+            "Name": "languagepack_et-EE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_9c9485e84c88f46edfcc3bac6a051c6e9def896b.cab",
+            "Name": "languagepack_eu-ES.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_5a8a23f7002bd4672d114f67b0007551812f7c8c.cab",
+            "Name": "languagepack_fa-IR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_80256dc4428a9b12c23190c54b5a5b4e5831cbe1.cab",
+            "Name": "languagepack_fi-FI.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_543a42271ad98253104779cddcafc27caaabd571.cab",
+            "Name": "languagepack_fil-PH.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_7f834b68030b2e216d529c565305ea0ee8bb2489.cab",
+            "Name": "languagepack_fr-CA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_261edf9ccbe6e3a1a52e9488862f6a1e55c5d671.cab",
+            "Name": "languagepack_fr-FR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_2d0250be6f3b7929520acec88da62e730c8f1381.cab",
+            "Name": "languagepack_ga-IE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_b60257db9dc3910da0adbc6b9839a69ac676b282.cab",
+            "Name": "languagepack_gd-GB.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_cb566e1e6a0af293a4be3510ef25b7d5f63a0f23.cab",
+            "Name": "languagepack_gl-ES.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_0cd1b303e60b1ce0bb5fd9d9399d48595324982a.cab",
+            "Name": "languagepack_gu-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_429efc2a24beae89d43e52b3acebd0ed6b1ecf2b.cab",
+            "Name": "languagepack_ha-LATN-NG.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_e0f0ee545e1e4d762704f1376873dfddfe26d5a4.cab",
+            "Name": "languagepack_he-IL.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_750e681d045c5905871631dec4ba17b3a44a93f7.cab",
+            "Name": "languagepack_hi-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_76b46b6212ee7f4de5ddff09be097efd15ef69cd.cab",
+            "Name": "languagepack_hr-HR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_e9dcfefe184d9177dac066af6110f1f7f2d826ff.cab",
+            "Name": "languagepack_hu-HU.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_03248748dfc4f6197a9a34eb17c4bf6deb5d5761.cab",
+            "Name": "languagepack_hy-AM.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_a7ca2bcf7e8a25d2db7380ad74159d5636e541b7.cab",
+            "Name": "languagepack_id-ID.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_3cf2c73ffac28fcb9fd27ddaf916be693f36aa8b.cab",
+            "Name": "languagepack_ig-NG.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_07ff5c59e0f43246e6c489f3e3994cf1c9c93dd9.cab",
+            "Name": "languagepack_is-IS.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_b7e30dbc9fd06b34116a61a90a21a472ae90a08f.cab",
+            "Name": "languagepack_it-IT.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_cd96d6c98451fe3c3efa0665fe865b1a7612fda2.cab",
+            "Name": "languagepack_ja-JP.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_979f061f2909043520944e28d370d3efc1643660.cab",
+            "Name": "languagepack_ka-GE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_0a9ad100a8dd17f8cbf726933941369248b47643.cab",
+            "Name": "languagepack_kk-KZ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_c355f9059a001a5de66a0b6ec3b746884a644b69.cab",
+            "Name": "languagepack_km-KH.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_de67c76d1a311945e3ebb94de0bb7c37904d2096.cab",
+            "Name": "languagepack_kn-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_250cd28c044258bfecb412c4637cce7c59386e4a.cab",
+            "Name": "languagepack_ko-KR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_dd4c977bb518adee6169e1ea77af2551eec2ed14.cab",
+            "Name": "languagepack_kok-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_8a65162635acc5d4d1a44fcc3a394a18ac71ec1e.cab",
+            "Name": "languagepack_ku-ARAB-IQ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_2b8268ad2c7eed8fd6f08a4095fa4eb8ca960b1c.cab",
+            "Name": "languagepack_ky-KG.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_d595b727deaeb5bc0585d2413ea537b78e4d62e5.cab",
+            "Name": "languagepack_lb-LU.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_ec006dad98aa485c63264be49a330399814bfb56.cab",
+            "Name": "languagepack_lo-LA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_0e3e50bdf2f9e724325e8ebbfa9348333c95dc78.cab",
+            "Name": "languagepack_lt-LT.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_69f40996e50473f5a1143612a3d580d6fd842b89.cab",
+            "Name": "languagepack_lv-LV.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_f7307e14c80b3e3040e2c6e7d66e77b5b9248207.cab",
+            "Name": "languagepack_mi-NZ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_297b5c1d2df079c1233f2015842a685c8429a5e6.cab",
+            "Name": "languagepack_mk-MK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_3439e21956fd6d7b884900f2d910eced6883104b.cab",
+            "Name": "languagepack_ml-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_007afb00b27335bf26f69aeed378dda194d12216.cab",
+            "Name": "languagepack_mn-MN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_72f3c1801c754c02a75864c391aa6bfe7c3706e1.cab",
+            "Name": "languagepack_mr-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_f415cfdbb1644d6ac3feeb88e9048f91f3b96846.cab",
+            "Name": "languagepack_ms-MY.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_6dc613ff1be4a9971631df39e9d3407d53b24279.cab",
+            "Name": "languagepack_mt-MT.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_95e5dcd8d2e017084917c8608a2e5b7ca2bb2891.cab",
+            "Name": "languagepack_nb-NO.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_a9920efdfaea424374a1d1a5ae0fcd074fce3c96.cab",
+            "Name": "languagepack_ne-NP.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_4dd047e5c9316321022904c36eb4728cda6c7644.cab",
+            "Name": "languagepack_nl-NL.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_986ee0cd3709546881412f7355753c15a1c8afe7.cab",
+            "Name": "languagepack_nn-NO.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_db7d86cdc4dc1ed7faad9f76e0443c384c37c150.cab",
+            "Name": "languagepack_nso-ZA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_a76d028aabce3f4e0746ed5225a4013da9df0253.cab",
+            "Name": "languagepack_or-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_391180148813cec07fd2a6f1bcf41a4049edff68.cab",
+            "Name": "languagepack_pa-ARAB-PK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_adb4daefc73462de00088a190d6439fb3aa7f6fc.cab",
+            "Name": "languagepack_pa-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_8a8e94abfe477bd7c362a2cc7f656082033309c1.cab",
+            "Name": "languagepack_pl-PL.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_86a57b34dd67656db19ceee3abb5f32dcd46d879.cab",
+            "Name": "languagepack_prs-AF.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_80ef02766fddeb5767b4a5345af8101bb9af1f3b.cab",
+            "Name": "languagepack_pt-BR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_e8a5eb2c660a6f98176b084165a156d4d425b40b.cab",
+            "Name": "languagepack_pt-PT.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_269285fe3befe913d1185ac3d6a16d0f9b721146.cab",
+            "Name": "languagepack_quc-LATN-GT.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_a6d6b17a780a1ad10b43714331febf49ca368854.cab",
+            "Name": "languagepack_quz-PE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_5c43b644073d78c2466eb4acc2bb93243637ff36.cab",
+            "Name": "languagepack_ro-RO.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_7233236d65ef7c920ccab4637562cf947234f8a0.cab",
+            "Name": "languagepack_ru-RU.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_aac9d184ba73b453d3f7706c5f0b24ba98962404.cab",
+            "Name": "languagepack_rw-RW.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_69ab92a162d8c6dd0bc8da97fea58b6dd473fc37.cab",
+            "Name": "languagepack_sd-ARAB-PK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_2f917ea6c482c3cfacc68a613adafea7c9b78064.cab",
+            "Name": "languagepack_si-LK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_5fb94915f9372ad6dd5ebde667a323a860d00d23.cab",
+            "Name": "languagepack_sk-SK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_92020bb6526dcdd71f5deb576f781a7a738fa184.cab",
+            "Name": "languagepack_sl-SI.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_7abb1bd4e7f7108445136c3beb9d72b4362787d7.cab",
+            "Name": "languagepack_sq-AL.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_93d5e874259490b4bb203ad8327b4d5bff233449.cab",
+            "Name": "languagepack_sr-CYRL-BA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_841b55b0120b4049861a055ec2d723f1296ed7b5.cab",
+            "Name": "languagepack_sr-CYRL-RS.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_44d106ddd6096a142ddd71c6b4d89ae8afb2453e.cab",
+            "Name": "languagepack_sr-LATN-RS.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_7a6c9bf2843eed63efdbe2f26925dc1a453a7a72.cab",
+            "Name": "languagepack_sv-SE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_5a12fc9b5818ef15dcae0897f3e920e52aa70dfc.cab",
+            "Name": "languagepack_sw-KE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_b2046130b32211148b38a0ec02345d5d8ffc1884.cab",
+            "Name": "languagepack_ta-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_2a5d02162fd03f22fa1a2d13dfb14e79f2b68d6e.cab",
+            "Name": "languagepack_te-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_946ec729c9c3fe9cf2f3cec50413d1be4f4e4209.cab",
+            "Name": "languagepack_tg-CYRL-TJ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_28a518a9374e4d695087cb23286722eafe7d6d6f.cab",
+            "Name": "languagepack_th-TH.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_c7e361f85bb31cfc23e0e8557cc74882e26e964a.cab",
+            "Name": "languagepack_ti-ET.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_834c3988b5514336a27fbae96630fac81b837dd5.cab",
+            "Name": "languagepack_tk-TM.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_9a4bacaffb8b1fb00f137f95e2651199a2f0cfb9.cab",
+            "Name": "languagepack_tn-ZA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_bf3469eb0624f16abaa9bbb39afb3af1739f0097.cab",
+            "Name": "languagepack_tr-TR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_146147b8622c9aafdaf32de724336b3315460f6d.cab",
+            "Name": "languagepack_tt-RU.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_861886d1413ecb19b8c152ba8446f2f58ca085a0.cab",
+            "Name": "languagepack_ug-CN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_e87e81bddf38a51c942bb801b16dd4944ce4d9b4.cab",
+            "Name": "languagepack_uk-UA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_06b89c91f2685331ca2c5b861dcc7666d61ab18b.cab",
+            "Name": "languagepack_ur-PK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_3c83483c4e0d7c71bb9c511b13c5599c29176705.cab",
+            "Name": "languagepack_uz-LATN-UZ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_a10da6bc0a7a764db84bb0a2507d460e25bd1902.cab",
+            "Name": "languagepack_vi-VN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_300873375fa221fa25becfab1ca9fa85053e0078.cab",
+            "Name": "languagepack_wo-SN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_22705c9cac24c09caa4725077688904156e129d4.cab",
+            "Name": "languagepack_xh-ZA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_23fa1d23ec3eeb6ad857443737fa28eae4d93eb0.cab",
+            "Name": "languagepack_yo-NG.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_4f1f6ca4c7868dde260e0c91f49e137ddf7d7d0b.cab",
+            "Name": "languagepack_zh-CN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_bdf3e21ecac534492802136b3a9f638e5498fab8.cab",
+            "Name": "languagepack_zh-HK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/lp_e3238161f53c4a69250280f68decd24dc787c2ec.cab",
+            "Name": "languagepack_zh-TW.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/lp_96171bc6b4ddac91b1fd3ec802e55bea1b06d2ba.cab",
+            "Name": "languagepack_zu-ZA.cab"
+        }
+    ]
+}

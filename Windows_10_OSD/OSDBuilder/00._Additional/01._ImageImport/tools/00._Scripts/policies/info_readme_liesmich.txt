@@ -1,0 +1,1 @@
+Ich habe ein paar lokale Richtlinien-Einstellungen geändert. Damit diese auf neuen Rechnern eingespielt werden können, muss der Ordner kopiert werden.

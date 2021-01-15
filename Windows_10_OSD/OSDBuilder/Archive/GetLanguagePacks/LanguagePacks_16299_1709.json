@@ -1,0 +1,886 @@
+{
+    "X86": [
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_7b03d1f20ccfca2811cc541c04262847908944d0.cab",
+            "Name": "languagepack_af-ZA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_2de764e94937fb49a8f5562164dc2f1f6ab63674.cab",
+            "Name": "languagepack_am-ET.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_d00c24c62ad4dd62ac65860aa5beb0275883b76b.cab",
+            "Name": "languagepack_ar-SA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_68f8d7e2251c322fb8ce0d3337b7fb7a817dcc0a.cab",
+            "Name": "languagepack_as-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_58621cc7c65d5aa13ce210df5717b4d1163a0231.cab",
+            "Name": "languagepack_az-Latn-AZ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_26a943d566d64d1ace6110845d24c60031102029.cab",
+            "Name": "languagepack_be-BY.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_e3117fd234ccace0f2b9ab512832d13973ce1209.cab",
+            "Name": "languagepack_bg-BG.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_641147914c71eaed288adf98fc503d60d5c166d5.cab",
+            "Name": "languagepack_bn-BD.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_7dc41fabb1bcbcb1681fef139227c85ab7648f10.cab",
+            "Name": "languagepack_bn-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_92b6dfad4a4bf55bb072b938398366e80e485d73.cab",
+            "Name": "languagepack_bs-Latn-BA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_589f39e410a67e6ffd0c8e5b223ca620078962a9.cab",
+            "Name": "languagepack_ca-ES.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_75dde72b29003965371cfb33e817acfe4c156e42.cab",
+            "Name": "languagepack_ca-ES-valencia.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_0021ba21d8451284f744d38ff748c135c88b9e83.cab",
+            "Name": "languagepack_chr-CHER-US.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_8470952cd1b7abb72b85375e81e57ec7d226a9e4.cab",
+            "Name": "languagepack_cs-CZ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_85d1fa1db13e230262756d17c25b7f20757fc7f1.cab",
+            "Name": "languagepack_cy-GB.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_3e334cb527450efb05f4b159957c95365ad706ac.cab",
+            "Name": "languagepack_da-DK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_34b8151f1d86ea0a8320e694671a7da9c4aa5e61.cab",
+            "Name": "languagepack_de-DE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_df0a674bc15cf1ee4db1022ffefe7dda57171ca1.cab",
+            "Name": "languagepack_el-GR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_4335b49fa09bc62af528e84ead2d8a6881aaf4c9.cab",
+            "Name": "languagepack_en-GB.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_9b49d8191c77af33400728f47ec993ea695acde0.cab",
+            "Name": "languagepack_en-us.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_e2264bbf0cadedf5bf22d28458286b6279146034.cab",
+            "Name": "languagepack_es-ES.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_03655f27d0d4478c9f7faac95018d85aa6ba3648.cab",
+            "Name": "languagepack_es-MX.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_81336c395c0eb67e8a52b104be61625dc96abe93.cab",
+            "Name": "languagepack_et-EE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_04d372f244bef0dc30b3bac783784592663988f5.cab",
+            "Name": "languagepack_eu-ES.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_d8fd5a15ff4ed2e1276ce79b917eee1ec967d628.cab",
+            "Name": "languagepack_fa-IR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_abd6261516c3f1e352cc2e330e89f1f5c0c5df2f.cab",
+            "Name": "languagepack_fi-FI.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_9ee698b4db63569febbcc34becc26597e28d413b.cab",
+            "Name": "languagepack_fil-PH.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_668261155b0fe970950ad921e86669d705af8836.cab",
+            "Name": "languagepack_fr-CA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_20679885507a1087263e5b80e7d2322f670bb94b.cab",
+            "Name": "languagepack_fr-FR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_ebb54c706900f43b886b21558a1ffd1623d5828e.cab",
+            "Name": "languagepack_ga-IE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_65cbbf05aa23f0b4516db628eb870f05b47467ec.cab",
+            "Name": "languagepack_gd-GB.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_fad8772a69d87221e6da118fd26ff9c1798749d7.cab",
+            "Name": "languagepack_gl-ES.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_0c147728b77704709cc478d44940cd48ddb019fe.cab",
+            "Name": "languagepack_gu-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_75054332f3b7fd13c8a4081ff64d6772f9a6a064.cab",
+            "Name": "languagepack_ha-Latn-NG.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_07cec4416e1247049a3ee859f41f0d693fed05b9.cab",
+            "Name": "languagepack_he-IL.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_d4ccafecae1973cd516a7395883a3b1f750b379a.cab",
+            "Name": "languagepack_hi-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_e55718f3ccb4b21ae0adceaef343ac6bdeaa1033.cab",
+            "Name": "languagepack_hr-HR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_eea7936862cc54776036f78a21e531584808ab57.cab",
+            "Name": "languagepack_hu-HU.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_3aa9e861237adf7dbeaad44376615bf6e62249e6.cab",
+            "Name": "languagepack_hy-AM.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_98a25bba0c4bf668d7482dbe0a73ba416caf9e6c.cab",
+            "Name": "languagepack_id-ID.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_3e5293191fc355b4771e8c0df564d42f0cc22376.cab",
+            "Name": "languagepack_ig-NG.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_32aa550b2dc988d036d17536d49714c351740c41.cab",
+            "Name": "languagepack_is-IS.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_6cfdb0005b64f4e2b9aa29f331481abe4a4cf315.cab",
+            "Name": "languagepack_it-IT.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_9f76b549cd708e3f29dbaf8860e148e3db2620fd.cab",
+            "Name": "languagepack_ja-JP.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_4ed507cd98527fd9b411a1e31df9b9ba95c8cdd8.cab",
+            "Name": "languagepack_ka-GE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_488441010ef2ebe63949f512b3899e5e1307c872.cab",
+            "Name": "languagepack_kk-KZ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_4aa25cf5a476d915bafee91fb4e26457a7344b7d.cab",
+            "Name": "languagepack_km-KH.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_bc473103653d0c43f2fd00b54828e79da7fad1f8.cab",
+            "Name": "languagepack_kn-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_974f260bb23cc0d5da0daef3073490fca4915619.cab",
+            "Name": "languagepack_kok-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_2e546cb1a04c3840b13f49b680df57b50d83bf80.cab",
+            "Name": "languagepack_ko-KR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_61a763f170cbd6d7ca522d4d88668d947154d7b6.cab",
+            "Name": "languagepack_ku-Arab-IQ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_a4bec50d12de847013bbea870578f435e5b59536.cab",
+            "Name": "languagepack_ky-KG.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_a4f41d43a9a3e2b1175b78c83916cb710ad1fed0.cab",
+            "Name": "languagepack_lb-LU.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_07dc97313941e44471fff3355090aa34eb8722d2.cab",
+            "Name": "languagepack_lo-LA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_56367b6d6f924dc5af586f138bc2b1ab0246e3d9.cab",
+            "Name": "languagepack_lt-LT.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_8b887aaf6c1554e6080756a945ffe421a895a26a.cab",
+            "Name": "languagepack_lv-LV.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_5c9d07d932025c4b36e71cf16bd93d7b98cbf081.cab",
+            "Name": "languagepack_mi-NZ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_6da1e74917a1e40b4b8a1a2b76e4b99c1b90aafa.cab",
+            "Name": "languagepack_mk-MK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_b69a940907407510f449f8ed4ce0ac76a1728b8d.cab",
+            "Name": "languagepack_ml-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_7d46f10a9d213c63fd9d513146009d7432490a45.cab",
+            "Name": "languagepack_mn-MN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_15fbee58fba21543cfcbcdd6ec9c710d30f5444a.cab",
+            "Name": "languagepack_mr-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_85e9455e9d8aa8ae745388168f468bef755520b9.cab",
+            "Name": "languagepack_ms-MY.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_6b068e4c7f3dfbe81289c83bd59f268d96d24e6c.cab",
+            "Name": "languagepack_mt-MT.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_8b1380a275cf5165d82fd5b1c4a88d54081be43a.cab",
+            "Name": "languagepack_nb-NO.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_5c2c7dc817392571307e9c6c89413b2c0bd254c7.cab",
+            "Name": "languagepack_ne-NP.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_cabd5843b30bd288ac5f3247f51b17ec5b774d58.cab",
+            "Name": "languagepack_nl-NL.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_d1cc7b67c28449e73e5cfcefa632cddcadb4971c.cab",
+            "Name": "languagepack_nn-NO.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_d68e7c7d56c1343bd6a9b405d11e7854be823528.cab",
+            "Name": "languagepack_nso-ZA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_bd484bb74b67088ad856106244b7a48b04039223.cab",
+            "Name": "languagepack_or-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_310e861f0bd68acad0761a2fff3467d5b5706142.cab",
+            "Name": "languagepack_pa-Arab-PK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_f207f8b09c27e6c3e23e07730bf4c57cd76649e1.cab",
+            "Name": "languagepack_pa-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_8d6614558ab71bd38ee817de8f3a79c937f951a8.cab",
+            "Name": "languagepack_pl-PL.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_56defd77ed7f83d3a35105a2613009ab7f9c76f4.cab",
+            "Name": "languagepack_prs-AF.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_bd9f89f28144640a9c59c951142e6e90f7ea2f5d.cab",
+            "Name": "languagepack_pt-BR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_76eba09d941be4debf1749a8bcb9645b4fb55222.cab",
+            "Name": "languagepack_pt-PT.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_f0a54753c78036835028fd05e68dd3af7c1d5f71.cab",
+            "Name": "languagepack_quc-Latn-GT.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_53993c6be5ddda10b9b1982e22442dc2a302ead1.cab",
+            "Name": "languagepack_quz-PE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_abca6b12fb370591495c74facaa132ba1cb132c4.cab",
+            "Name": "languagepack_ro-RO.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_c7d7b3d6f20f7d21ab6b1e4b8d1e3cf31391bb0f.cab",
+            "Name": "languagepack_ru-RU.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_9c8baf6c36e1b0d78f04533199bdedce0f9c3d7c.cab",
+            "Name": "languagepack_rw-RW.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_1638b35ba2624a2afa2314fb60c8cad97bfdd931.cab",
+            "Name": "languagepack_sd-Arab-PK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_4edc32195c9ab9e7e9d94068c56d2bf0f6a69a79.cab",
+            "Name": "languagepack_si-LK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_b8513d665aadab1f437315bc0655231d18703a66.cab",
+            "Name": "languagepack_sk-SK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_7a3dd43ce0b647991ee0d8e676627f59689d0e48.cab",
+            "Name": "languagepack_sl-SI.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_09972cc6384f386de4fc0b1485e7c52351815f05.cab",
+            "Name": "languagepack_sq-AL.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_d74f7e37841a97744dc1cdcb57a084609e310053.cab",
+            "Name": "languagepack_sr-Cyrl-BA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_d7427f6ce8c59ed45bfffec9788f87869274d565.cab",
+            "Name": "languagepack_sr-Cyrl-RS.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_05e3de13307e765198b1d346ee1213c4dfc62aae.cab",
+            "Name": "languagepack_sr-Latn-RS.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_dc469ab4fceeec3b2398be70c1e01ebe79bce03f.cab",
+            "Name": "languagepack_sv-SE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_bfc8404043632361b9d8444dd256e28cba76bd0c.cab",
+            "Name": "languagepack_sw-KE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_ddb1067e37aed4e12c6a982de951f5367a94505f.cab",
+            "Name": "languagepack_ta-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_f6774f987a5e449e14b53ceb90a76549be15e35f.cab",
+            "Name": "languagepack_te-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_82640a9c336e379be603b7fcb673268695197c57.cab",
+            "Name": "languagepack_tg-Cyrl-TJ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_0df3884e24332a3e5143803116aa1065cab7301a.cab",
+            "Name": "languagepack_th-TH.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_b34b171c500e940f6f1119ea88c26a81607e7668.cab",
+            "Name": "languagepack_ti-ET.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_99b0aae586f171e0f11e12f58c1663b7c1248dc6.cab",
+            "Name": "languagepack_tk-TM.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_507f56427bcedd6d4e3fb05c300e04a866c61d22.cab",
+            "Name": "languagepack_tn-ZA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_bb2cb0bf971e241b1916a80c5495728d7f3b0a37.cab",
+            "Name": "languagepack_tr-TR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_a9946f0cb060ea83c696d39a73ef4631723852e6.cab",
+            "Name": "languagepack_tt-RU.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_d38e33f9385bd5c1f6df5b38807b09a946a9917b.cab",
+            "Name": "languagepack_ug-CN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_8584060d5463d9870f8cc6ef831a10e4b852943a.cab",
+            "Name": "languagepack_uk-UA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_daa4237fd1314be763174c866defa766abfdcff6.cab",
+            "Name": "languagepack_ur-PK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_b1b47db921043773afc7cc3e2cb6167eabe48cc4.cab",
+            "Name": "languagepack_uz-Latn-UZ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_14112d6b860ff1d05e0896ac19473720e156e846.cab",
+            "Name": "languagepack_vi-VN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_0d905601fbd62ed20dc8b7e55bc6281fd1d82231.cab",
+            "Name": "languagepack_wo-SN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_fb8bf8891bf48e22dcf4f4ff41e2eb674a548498.cab",
+            "Name": "languagepack_xh-ZA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_9a02bd6b625718eb8743721b54341bee80e411ac.cab",
+            "Name": "languagepack_yo-NG.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_841c0ce7d967aa41f0d0c22e01bdcacf8603a935.cab",
+            "Name": "languagepack_zh-CN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_27d2885d1ac87af5aac3da39974d1d3c71ee1a48.cab",
+            "Name": "languagepack_zh-TW.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_e8fa170319c43ad072e7f511c96908d3b294147a.cab",
+            "Name": "languagepack_zu-ZA.cab"
+        }
+    ],
+    "X64": [
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_c906cfc1627abe274613f36be8a618eb260c6ae3.cab",
+            "Name": "languagepack_af-ZA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_02cdcd6c45aacf0652e5fa7e2ff3597c2a82055f.cab",
+            "Name": "languagepack_am-ET.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_ab19174d9ab362c6c72f84c0a9650b564c321e02.cab",
+            "Name": "languagepack_ar-SA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_65e4ede516378660eeede4b7e609116e889b48f3.cab",
+            "Name": "languagepack_as-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_3f2ae8bfae1c4f1d348c1117fe3ce089dd1321ba.cab",
+            "Name": "languagepack_az-Latn-AZ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_c5108b3b7a23746c6e3e5deb7075f38eb8923f63.cab",
+            "Name": "languagepack_be-BY.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_2bac1aa96055304ce8154568dcd2532df422bc37.cab",
+            "Name": "languagepack_bg-BG.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_7626a33b45894392f025ce65a7792ceba0d77b71.cab",
+            "Name": "languagepack_bn-BD.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_aaa984c99e670f06c623604968826d02c435222d.cab",
+            "Name": "languagepack_bn-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_6c71b2f769df08094265295f34f4ad216c525b23.cab",
+            "Name": "languagepack_bs-Latn-BA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_d1a18156057350299902b0e0784e6152ab42d422.cab",
+            "Name": "languagepack_ca-ES.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_f118fa89d4b4db471343fe89f9ffd2ed43c75297.cab",
+            "Name": "languagepack_ca-ES-valencia.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_0e5ba3acf4a42aaed2756e5e568b30600756d2fd.cab",
+            "Name": "languagepack_chr-CHER-US.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_c2ad58d3704f06074b24316ca09f329b28a60dd5.cab",
+            "Name": "languagepack_cs-CZ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_833fd4c102060aaccbabd5c2ca739717b2ac304c.cab",
+            "Name": "languagepack_cy-GB.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_38cb3dbf64ee7b8ff9bcc3ba418c15bc60e36719.cab",
+            "Name": "languagepack_da-DK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_06eb7bde168ca27d694d85bcde58fe1d9a5284ea.cab",
+            "Name": "languagepack_de-DE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_1a6003b4fb387ce8d36ec99718bc2fef685ca1cb.cab",
+            "Name": "languagepack_el-GR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_e23027acbe75972822e5564bfc32838515c41583.cab",
+            "Name": "languagepack_en-GB.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_0f6159efd19732f2d03da6cdc977cdd19160ccc1.cab",
+            "Name": "languagepack_en-us.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_58957f72854f66250ae84c3aa53362dd1976ba90.cab",
+            "Name": "languagepack_es-ES.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_99500abe38833c6499e2d34e95e8093c5a5378e5.cab",
+            "Name": "languagepack_es-MX.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_399b0f72a76cf85857fbfd687b01ea75b63dfa61.cab",
+            "Name": "languagepack_et-EE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_6b77914f8402ff2bb716099b74ff9f3ff498d983.cab",
+            "Name": "languagepack_eu-ES.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_6ea52d04e9bd3d040b3653b8d00f9e06513b804c.cab",
+            "Name": "languagepack_fa-IR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_2d703f3797bd84031c9fb3aef0687925d2550276.cab",
+            "Name": "languagepack_fi-FI.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_71a872778a72644ed5531ab7a2c9310d4161ebe6.cab",
+            "Name": "languagepack_fil-PH.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_f8ff8608dc2014b6a2ec44459b01a81f04d928a9.cab",
+            "Name": "languagepack_fr-CA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_56bf1ca2fd8d2ab6bfe207c740962cc70811065b.cab",
+            "Name": "languagepack_fr-FR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_33cfbc050018718ed4a83858f5af9afc2e3a32a8.cab",
+            "Name": "languagepack_ga-IE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_2afa64b21e9c16e1f5cca6d3526188722cc6e237.cab",
+            "Name": "languagepack_gd-GB.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_56999b431c6c907ccb57c811c628b6f403a06a26.cab",
+            "Name": "languagepack_gl-ES.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_3fba7177f2ec07e95bf98046f7f343ae2561577a.cab",
+            "Name": "languagepack_gu-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_a79995a3815432f07fb4fd93df3ed18017dfb83e.cab",
+            "Name": "languagepack_ha-Latn-NG.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_267a8bbed3b6734d48968c24a5d8502460acdd88.cab",
+            "Name": "languagepack_he-IL.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_a2656441fd7576fe8949e0519b928c47fb76f24c.cab",
+            "Name": "languagepack_hi-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_580fe3b9d89d8b3c975acbe10b2446cae45bfa0a.cab",
+            "Name": "languagepack_hr-HR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_fbf1da5a34efab11e08ed8459bcdf366e1c6bfe2.cab",
+            "Name": "languagepack_hu-HU.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_2425ff58d4ce9897ecdbcc8e8d7f2e36327cb89d.cab",
+            "Name": "languagepack_hy-AM.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_a20c83717c2dabb7c7995bcc17a9b97cddaea392.cab",
+            "Name": "languagepack_id-ID.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_e75a3325cdca3d145a3e7d08bffc02c55d3c6185.cab",
+            "Name": "languagepack_ig-NG.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_bd880c3c290f61dcd3ae884cb3b2a64d6fe470a7.cab",
+            "Name": "languagepack_is-IS.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_a1635ce5c9fec573b33b4bca2d8384e9da16da51.cab",
+            "Name": "languagepack_it-IT.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_34e91ea28252ee861a776b4f1ae7afbb5ce0d5cd.cab",
+            "Name": "languagepack_ja-JP.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_011c57e18c33390a4f0ac98a6dcef7c249daf12d.cab",
+            "Name": "languagepack_ka-GE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_88e7509b6ad690e5f54ba57b66d8767ac9ca15e1.cab",
+            "Name": "languagepack_kk-KZ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_c35238ce23965e8305edff8797e37e646c8283c8.cab",
+            "Name": "languagepack_km-KH.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_aa05b74aa0f30538a134a42d4fd87978c9083a52.cab",
+            "Name": "languagepack_kn-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_e2361378f5d384675f091165d3198afb3e8ecc90.cab",
+            "Name": "languagepack_kok-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_94350e7da3f1e5e7c04565d8a3d04a05fb06126b.cab",
+            "Name": "languagepack_ko-KR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_18c7f042a3c3c7242d36359c5f5c8423df14c722.cab",
+            "Name": "languagepack_ku-Arab-IQ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_0d10f28ffbf6292484b6507f361110bc8331c935.cab",
+            "Name": "languagepack_ky-KG.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_eafb2a85b05ceaa88e97932e6d0f963e7fd78654.cab",
+            "Name": "languagepack_lb-LU.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_105b1428844da653e875e976e408032fc5c49925.cab",
+            "Name": "languagepack_lo-LA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_6515d430044207ae3444c3c08cdc157ee36423c9.cab",
+            "Name": "languagepack_lt-LT.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_ea283d9f236fa6b7b834785cb3eb7ba0cb4e9ebc.cab",
+            "Name": "languagepack_lv-LV.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_bb7c7a5084f3a693f28993744af7e9ebdfc31890.cab",
+            "Name": "languagepack_mi-NZ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_5d243ecce1a210891ca8a098bc7ad5865b3c09c4.cab",
+            "Name": "languagepack_mk-MK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_c1c88702bc0453a211a79d836925ba222c7c60f5.cab",
+            "Name": "languagepack_ml-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_1cd2b05c7de557dd42446236c9ded044df9b408c.cab",
+            "Name": "languagepack_mn-MN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_893adda4c3b021be20c26e65cb500333e047c355.cab",
+            "Name": "languagepack_mr-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_60603cdc3cc2bd88407cfb0bab551cd8f5f9d728.cab",
+            "Name": "languagepack_ms-MY.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_6226fd1c2d0f0856231a7dcc3ed2a9b67c76a62d.cab",
+            "Name": "languagepack_mt-MT.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_a7161aeff6d3a481f0873196b97b93251c144fe4.cab",
+            "Name": "languagepack_nb-NO.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_c7b8926d5d5e0348d2fd3afda177381a08546565.cab",
+            "Name": "languagepack_ne-NP.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_01aaba0416834190f72a2f46c74750af1efbee64.cab",
+            "Name": "languagepack_nl-NL.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_59da3b0aec938247d0bcbf0b88dd97cdeaa457f1.cab",
+            "Name": "languagepack_nn-NO.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_76233ed5adc740709efb967ac5579ec3183453a9.cab",
+            "Name": "languagepack_nso-ZA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_a450720b2dda131aac2be43342bc562e84a029ab.cab",
+            "Name": "languagepack_or-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_7d07980459d067c2a49b2f0230dd99db39064d69.cab",
+            "Name": "languagepack_pa-Arab-PK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_c52c23ec4255412598f2bf15d77c04be0115aac6.cab",
+            "Name": "languagepack_pa-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_472c622ccfc924fd3fbe268f7ca09e13883c11dc.cab",
+            "Name": "languagepack_pl-PL.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_1b4e8a275dfbf699c100101742a4b3c9cd4dea0d.cab",
+            "Name": "languagepack_prs-AF.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_48ef5122c1e8ad782a05c134e4c3244f038a2806.cab",
+            "Name": "languagepack_pt-BR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_6a2bf227f373920df8de1303ca5a3af332fec93c.cab",
+            "Name": "languagepack_pt-PT.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_f75cba1bdf0478ea681b498d161aa7cfacf9dff8.cab",
+            "Name": "languagepack_quc-Latn-GT.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_27267241257db5726c9a72163898195d3898a3af.cab",
+            "Name": "languagepack_quz-PE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_2d3de63bac1e7800751888ba6e4dc9f64c34f5bd.cab",
+            "Name": "languagepack_ro-RO.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_6b7cd4f481175b2da9ae2865fc3396ae984c7f77.cab",
+            "Name": "languagepack_ru-RU.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_2437ef5ba797541cd4dd8a59558c71401775462f.cab",
+            "Name": "languagepack_rw-RW.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_8ccbbdcb521c2a9a1cd1e97896d9a86978d4cc53.cab",
+            "Name": "languagepack_sd-Arab-PK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_ba6bb2732155e05c87ea79b5df130bd4381521ec.cab",
+            "Name": "languagepack_si-LK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_0d64bf33c5f8d9597065ff373a72ba1c5fdacbb0.cab",
+            "Name": "languagepack_sk-SK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_92edd61c4f2a7751d7abcac0fa88971f56856b3f.cab",
+            "Name": "languagepack_sl-SI.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_e1046203e14e82d38e91192c1eb7005a79cc0379.cab",
+            "Name": "languagepack_sq-AL.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_c92c3b5b563b57890546b42b314e5e6b34290d54.cab",
+            "Name": "languagepack_sr-Cyrl-BA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_3f02a3d9910e8e1c4d36a4b3cd4f19736b24fa0a.cab",
+            "Name": "languagepack_sr-Cyrl-RS.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_5f088fa6b7bb600a0af01b0fa40c55d13ccc7653.cab",
+            "Name": "languagepack_sr-Latn-RS.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_2c6d05daa8a7bfe71111da06fe3b877ce67d1aba.cab",
+            "Name": "languagepack_sv-SE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_8c13d5ebfbf7ffb54677244d2db41ab8de57d7bf.cab",
+            "Name": "languagepack_sw-KE.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_4e68b4a6c631f3348a3542dc5af79ca99f950eab.cab",
+            "Name": "languagepack_ta-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_aaef71df7f783b48f979aff2976f156d1904dfc2.cab",
+            "Name": "languagepack_te-IN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_d9286986c7a18aba76ba295c54afef89c97621f9.cab",
+            "Name": "languagepack_tg-Cyrl-TJ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_ad71d865efe18b90148904573c50f6d51c6ecc1a.cab",
+            "Name": "languagepack_th-TH.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_fde486598656e99a8c031271961c9d086d4958f7.cab",
+            "Name": "languagepack_ti-ET.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_c297a78c2c9252980b990646203c68408e2f46fe.cab",
+            "Name": "languagepack_tk-TM.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_4e46f7ab686b812ebe49ab76e04abb2fc5403364.cab",
+            "Name": "languagepack_tn-ZA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_2917d79e4cac9220860613715063cd1b5dfa221b.cab",
+            "Name": "languagepack_tr-TR.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_38807b951b65bbc33503d034ee86ea69d4846889.cab",
+            "Name": "languagepack_tt-RU.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_db6d1ed98814cc04373232eaeb0dc4e47a27918b.cab",
+            "Name": "languagepack_ug-CN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_359ac0764562f60587426b8327661e8a11da56ec.cab",
+            "Name": "languagepack_uk-UA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_c1c76307de0fd0b98fd91b9eb2012a5a31a3d6bf.cab",
+            "Name": "languagepack_ur-PK.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_8c239aabea4b6153f7213b4272bf4213ec1e6c0f.cab",
+            "Name": "languagepack_uz-Latn-UZ.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_a74cb9a5132796c0c98bbab7bad0c4433a56df66.cab",
+            "Name": "languagepack_vi-VN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_e902c47db864e67a898f6fac6d975a40c9d1b400.cab",
+            "Name": "languagepack_wo-SN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_0dd1b716e196648d21b4a757934a6b444209db0e.cab",
+            "Name": "languagepack_xh-ZA.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_2f3d6966a5e675921dacafa8a99ffc0f511e448a.cab",
+            "Name": "languagepack_yo-NG.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/c/msdownload/update/software/updt/2017/10/lp_9a5601d7b86f521c0e41bccfeeb5565ce415d008.cab",
+            "Name": "languagepack_zh-CN.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_dc67ebbb0f66983d2d5a7c44afc55de587c4405b.cab",
+            "Name": "languagepack_zh-TW.cab"
+        },
+        {
+            "Link": "http://download.windowsupdate.com/d/msdownload/update/software/updt/2017/10/lp_2f03787c1162c69a45810435ef095cbd1320880b.cab",
+            "Name": "languagepack_zu-ZA.cab"
+        }
+    ]
+}

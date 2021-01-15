@@ -1,0 +1,20 @@
+Windows Registry Editor Version 5.00
+
+; Blocking .NET Core update delivery from Microsoft Update
+; https://devblogs.microsoft.com/dotnet/net-core-updates-coming-to-microsoft-update/
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NET]
+;"BlockMU"=dword:00000001 ; 1 = Block Microsoft Update
+"BlockMU"=-
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NET\5.0]
+;"BlockMU"=dword:00000001 ; 1 = Block Microsoft Update
+"BlockMU"=-
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NET\3.1]
+;"BlockMU"=dword:00000001 ; 1 = Block Microsoft Update
+"BlockMU"=-
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NET\2.1]
+;"BlockMU"=dword:00000001 ; 1 = Block Microsoft Update
+"BlockMU"=-

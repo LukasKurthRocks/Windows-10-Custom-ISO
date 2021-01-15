@@ -1,0 +1,53 @@
+﻿So, gibt ein paar Sachen bezgl. der Multi-Sprachen.
+
+Zum einen kann man ein ContentPack erstellen und beim Task einem Index zuweisen
+=> "New-OSDBuilderContentPack -Name "MultiLang DE" -ContentType MultiLang"
+=> "*\OSDBuilder\ContentPacks\MultiLang DE\OSLanguagePacks\2009 x64"
+
++---OSLanguageFeatures
+|   +---1903 x64
+|   +---1909 x64
+|   +---2004 x64
+|   \---2009 x64
+|           microsoft-windows-languagefeatures-basic-de-de-package-amd64.cab
+|           microsoft-windows-languagefeatures-handwriting-de-de-package-amd64.cab
+|           microsoft-windows-languagefeatures-ocr-de-de-package-amd64.cab
+|           microsoft-windows-languagefeatures-speech-de-de-package-amd64.cab
+|           microsoft-windows-languagefeatures-texttospeech-de-de-package-amd64.cab
+|
++---OSLanguagePacks
+|   +---1903 x64
+|   +---1909 x64
+|   +---2004 x64
+|   \---2009 x64
+|           microsoft-windows-client-languagepack-package_de-de-amd64-de-de.cab
+|
++---OSLocalExperiencePacks
+|   |   languageexperiencepack.de-de.neutral.appx
+|   |
+|   +---1903 x64
+|   +---1909 x64
+|   \---2004 x64
+\---PEADKLang
+    +---1903 x64
+    +---1909 x64
+    \---2004 x64
+
+Zum anderen kann man die "extrahierten Daten" (in meinem Fall von UUPDump.ml geladen) in einen separaten Ordner schieben.
+Dieser wird dann vom OSDBuildTask erkannt und kann dann mit eingebaut werden.
+=> "*\OSDBuilder\Content\IsoExtract\Windows 10 2009 Language\x64\langpacks"
+
+Zu den extrahierten Daten kann man dann auch noch die weitere Sprachfeatures hinzufügen
+=> "*\OSDBuilder\Content\IsoExtract\Windows 10 2009 FOD x64"
+
+Reginale Einstellungen
+=> lpksetup.exe /i
+=> rundll32.exe shell32,Control_RunDLL intl.cpl,,/f:"English_US.xml"
+=> Set-WinUILanguageOverride -Language de-DE
+=> Add-AppxProvisionedPackage -Online -PackagePath .\LanguageExperiencePack.de-DE.Neutral.appx -LicensePath .\License.xml
+=> Get-AppxPackage -AllUsers | ? Name -Like *LanguageExperiencePack* | Format-List Name, PackageUserInformation
+==> $p = (Get-AppxPackage | ? Name -Like *LanguageExperiencePack*de-DE*).InstallLocation; Add-AppxPackage -Register -Path "$p\AppxManifest.xml" -DisableDevelopmentMode
+=> $ll = New-WinUserLanguageList -Language de-DE; Set-WinUserLanguageList $ll -Force
+
+Für später:
+=> Get-CimInstance -Namespace "Root\cimv2\mdm\dmmap" -ClassName "MDM_EnterpriseModernAppManagement_AppManagement01" | Invoke-CimMethod -MethodName UpdateScanMethod

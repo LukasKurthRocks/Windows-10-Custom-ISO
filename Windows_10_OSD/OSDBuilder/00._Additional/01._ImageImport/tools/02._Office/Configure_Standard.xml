@@ -1,0 +1,14 @@
+<Configuration>
+  <Add OfficeClientEdition="64" Channel="Targeted">
+    <Product ID="Proplus2019Retail">
+      <Language ID="de-DE" />
+      <ExcludeApp ID="Access" />
+      <ExcludeApp ID="Publisher" />
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="OneDrive" />
+    </Product>
+  </Add>
+  <Display Level="Full" AcceptEULA="TRUE" />
+  <Updates Enabled="TRUE" Channel="Targeted" />
+</Configuration>

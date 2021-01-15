@@ -1,0 +1,55 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Control Panel\International\User Profile\fr-FR]
+"CachedLanguageName"="@Winlangdb.dll,-1165"
+
+[HKEY_CURRENT_USER\Control Panel\International\User Profile\ja]
+"CachedLanguageName"="@Winlangdb.dll,-1230"
+"0411:{03B5835F-F03C-411B-9CE2-AA23E1171E36}{A76C93D9-5523-4E90-AAFA-4DB112F9AC76}"=dword:00000001
+"FeaturesToInstall"=dword:000000e3
+
+[HKEY_CURRENT_USER\Control Panel\International\User Profile]
+"ShowAutoCorrection"=dword:00000001
+"ShowTextPrediction"=dword:00000001
+"Languages"=hex(7):66,00,72,00,2D,00,46,00,52,00,00,00,6A,00,61,00,00,00
+"ShowCasing"=dword:00000001
+"ShowShiftLock"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Microsoft\CTF\SortOrder\Language]
+"00000000"="0000040c"
+"00000001"="00000411"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\International]
+"AcceptLanguage"="fr-FR,fr;q=0.7,ja;q=0.3"
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"PreferredUILanguagesPending"=hex(7):66,00,72,00,2D,00,46,00,52,00,00,00
+
+[HKEY_CURRENT_USER\Software\Microsoft\CTF\SortOrder\AssemblyItem\0x00000411\{34745C63-B2F0-4784-8B67-5E12C8701A31}\00000000]
+"CLSID"="{03B5835F-F03C-411B-9CE2-AA23E1171E36}"
+"KeyboardLayout"=dword:00000000
+"Profile"="{A76C93D9-5523-4E90-AAFA-4DB112F9AC76}"
+
+[HKEY_CURRENT_USER\Keyboard Layout\Preload]
+"1"="0000040c"
+"2"="00000411"
+
+[HKEY_CURRENT_USER\Software\Microsoft\CTF\TIP\{03B5835F-F03C-411B-9CE2-AA23E1171E36}\LanguageProfile\0x00000411\{A76C93D9-5523-4E90-AAFA-4DB112F9AC76}]
+"Enable"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Microsoft\CTF\Assemblies\0x0000040c\{34745C63-B2F0-4784-8B67-5E12C8701A31}]
+"Default"="{00000000-0000-0000-0000-000000000000}"
+"Profile"="{00000000-0000-0000-0000-000000000000}"
+"KeyboardLayout"=dword:040c040c
+
+[HKEY_CURRENT_USER\Software\Microsoft\CTF\HiddenDummyLayouts]
+"00000411"="00000411"
+
+[HKEY_CURRENT_USER\Control Panel\International\LanguageComponentsInstallation\Basic]
+"ja-JP"="30757443_2195408995"
+
+[HKEY_CURRENT_USER\Control Panel\International\LanguageComponentsInstallation\Fonts]
+"und-JPAN"="30757443_2195408995"
+
+[HKEY_CURRENT_USER\Control Panel\International\LanguageComponentsInstallation\OCR]
+"ja-JP"="30757443_2195408995"

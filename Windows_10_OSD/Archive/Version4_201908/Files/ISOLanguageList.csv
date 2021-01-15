@@ -1,0 +1,251 @@
+Locale;LanguageCode;LCIDString;LCIDDecimal;LCIDHexadecimal;Codepage
+Afrikaans;af;af-za;1078;436;1252
+Albanian;sq;sq-al;1052;041C;1250
+Alsatian - France;;gsw-fr;1156;484;
+Amharic;am;am-et;1118;045E;
+Arabic - Algeria;ar;ar-dz;5121;1401;1256
+Arabic - Bahrain;ar;ar-bh;15361;3C01;1256
+Arabic - Egypt;ar;ar-eg;3073;0C01;1256
+Arabic - Iraq;ar;ar-iq;2049;801;1256
+Arabic - Jordan;ar;ar-jo;11265;2C01;1256
+Arabic - Kuwait;ar;ar-kw;13313;3401;1256
+Arabic - Lebanon;ar;ar-lb;12289;3001;1256
+Arabic - Libya;ar;ar-ly;4097;1001;1256
+Arabic - Morocco;ar;ar-ma;6145;1801;1256
+Arabic - Oman;ar;ar-om;8193;2001;1256
+Arabic - Qatar;ar;ar-qa;16385;4001;1256
+Arabic - Saudi Arabia;ar;ar-sa;1025;401;1256
+Arabic - Syria;ar;ar-sy;10241;2801;1256
+Arabic - Tunisia;ar;ar-tn;7169;1C01;1256
+Arabic - United Arab Emirates;ar;ar-ae;14337;3801;1256
+Arabic - Yemen;ar;ar-ye;9217;2401;1256
+Armenian;hy;hy-am;1067;042B;
+Assamese;as;as-in;1101;044D;
+Azeri - Cyrillic;az;az-cyrl-az;2092;082C;1251
+Azeri - Latin;az;az-latn-az;1068;042C;1254
+Bashkir - Russia;;ba-ru;1133;046D;
+Basque;eu;eu-es;1069;042D;1252
+Belarusian;be;be-by;1059;423;1251
+Bengali - Bangladesh;bn;bn-bd;2117;845;
+Bengali - India;bn;bn-in;1093;445;
+Bosnian;bs;bs-latn-ba;5146;141A;
+Bosnian (Cyrillic) - Bosnia and Herzegovina;;bs-cyrl-ba;8218;201A;
+Breton - France;;br-fr;1150;047E;
+Bulgarian;bg;bg-bg;1026;402;1251
+Burmese;my;my;1109;455;
+Catalan;ca;ca-es;1027;403;1252
+Central Atlas Tamazight (Tifinagh) - Morocco;;tzm-ma;4191;105F;
+Central Kurdish - Iraq;;ku-iq;1170;492;
+Cherokee - Cherokee;;chr-us;1116;045C;
+Chinese - China;zh;zh-cn;2052;804;
+Chinese - Hong Kong SAR;zh;zh-hk;3076;0C04;
+Chinese - Macau SAR;zh;zh-mo;5124;1404;
+Chinese - Simplified;zh;zh-chs;4;4;
+Chinese - Singapore;zh;zh-sg;4100;1004;
+Chinese - Taiwan;zh;zh-tw;1028;404;
+Chinese - Traditional;;zh-cht;31748;7C04;
+Corsican - France;;co-fr;1155;483;
+Croatian;hr;hr-hr;1050;041A;1250
+Croatian (Latin) - Bosnia and Herzegovina;;hr-ba;4122;101A;
+Czech;cs;cs-cz;1029;405;1250
+Danish;da;da-dk;1030;406;1252
+Dari - Afghanistan;;prs-af;1164;048C;
+"Divehi; Dhivehi; Maldivian";dv;dv-mv;1125;465;
+Dutch - Belgium;nl;nl-be;2067;813;1252
+Dutch - Netherlands;nl;nl-nl;1043;413;1252
+Edo;;;1126;466;
+English - Australia;en;en-au;3081;0C09;1252
+English - Belize;en;en-bz;10249;2809;1252
+English - Canada;en;en-ca;4105;1009;1252
+English - Caribbean;en;en-cb;9225;2409;1252
+English - Great Britain;en;en-gb;2057;809;1252
+English - India;en;en-in;16393;4009;
+English - Ireland;en;en-ie;6153;1809;1252
+English - Jamaica;en;en-jm;8201;2009;1252
+English - Malaysia;;en-my;17417;4409;
+English - New Zealand;en;en-nz;5129;1409;1252
+English - Phillippines;en;en-ph;13321;3409;1252
+English - Singapore;;en-sg;18441;4809;
+English - Southern Africa;en;en-za;7177;1C09;1252
+English - Trinidad;en;en-tt;11273;2C09;1252
+English - United States;en;en-us;1033;409;1252
+English - Zimbabwe;en;en-zw;12297;3009;1252
+Estonian;et;et-ee;1061;425;1257
+Faroese;fo;fo-fo;1080;438;1252
+Farsi - Persian;fa;fa-ir;1065;429;1256
+Filipino;;fil-ph;1124;464;
+Finnish;fi;fi-fi;1035;040B;1252
+French - Belgium;fr;fr-be;2060;080C;1252
+French - Cameroon;fr;;11276;2C0C;
+French - Canada;fr;fr-ca;3084;0C04;1252
+French - Congo;fr;;9228;240C;
+French - Cote d'Ivoire;fr;;12300;300C;
+French - France;fr;fr-fr;1036;040C;1252
+French - Luxembourg;fr;fr-lu;5132;140C;1252
+French - Mali;fr;;13324;;
+French - Monaco;fr;fr-mc;6156;180C;1252
+French - Morocco;fr;;14348;;
+French - Senegal;fr;;10252;280C;
+French - Switzerland;fr;fr-ch;4108;100C;1252
+French - West Indies;fr;;7180;1C0C;
+Frisian - Netherlands;;fy-nl;1122;462;
+FYRO Macedonia;mk;mk-mk;1071;042F;1251
+Gaelic - Ireland;gd;ga-ie;2108;083C;
+Gaelic - Scotland;gd;gd;1084;043C;
+Galician;gl;gl-es;1110;456;1252
+Georgian;ka;ka-ge;1079;437;
+German - Austria;de;de-at;3079;0C07;1252
+German - Germany;de;de-de;1031;407;1252
+German - Liechtenstein;de;de-li;5127;1407;1252
+German - Luxembourg;de;de-lu;4103;1007;1252
+German - Switzerland;de;de-ch;2055;807;1252
+Greek;el;el-gr;1032;408;1253
+Greenlandic - Greenland;;kl-gl;1135;046F;
+Guarani - Paraguay;gn;gn;1140;474;
+Gujarati;gu;gu-in;1095;447;
+Hausa - Nigeria;;ha-ng;1128;468;
+Hawiian - United States;;haw-us;1141;475;
+Hebrew;he;he-il;1037;040D;1255
+HID (Human Interface Device);;;1279;;
+Hindi;hi;hi-in;1081;439;
+Hungarian;hu;hu-hu;1038;040E;1250
+Icelandic;is;is-is;1039;040F;1252
+Igbo - Nigeria;;ig-ng;1136;470;
+Indonesian;id;id-id;1057;421;1252
+Inuktitut (Canadian_Syllabics) - Canada;;iu-ca;1117;045D;
+Inuktitut (Latin) - Canada;;iu-ca;2141;085D;
+Italian - Italy;it;it-it;1040;410;1252
+Italian - Switzerland;it;it-ch;2064;810;1252
+Japanese;ja;ja-jp;1041;411;
+Kannada;kn;kn-in;1099;044B;
+Kashmiri;ks;ks;1120;460;
+Kazakh;kk;kk-kz;1087;043F;1251
+Khmer;km;km-kh;1107;453;
+K'iche - Guatemala;;quc-gt;1158;486;
+Kinyarwanda - Rwanda;;rw-rw;1159;487;
+Konkani;;kok-in;1111;457;
+Korean;ko;ko-kr;1042;412;
+Kyrgyz - Cyrillic;;ky-kg;1088;440;1251
+Lao;lo;lo-la;1108;454;
+Latin;la;la;1142;476;
+Latvian;lv;lv-lv;1062;426;1257
+Lithuanian;lt;lt-lt;1063;427;1257
+Lower Sorbian - Germany;;dsb-DE;2094;082E;
+Luxembourgish - Luxembourg;;lb-lu;1134;046E;
+Malay - Brunei;ms;ms-bn;2110;083E;1252
+Malay - Malaysia;ms;ms-my;1086;043E;1252
+Malayalam;ml;ml-in;1100;044C;
+Maltese;mt;mt-mt;1082;043A;
+Manipuri;;;1112;458;
+Maori;mi;mi-nz;1153;481;
+Mapudungun - Chile;;arn-cl;1146;047A;
+Marathi;mr;mr-in;1102;044E;
+Mohawk - Canada;;moh-ca;1148;047C;
+Mongolian;mn;mn-mong-cn;2128;850;
+Mongolian;mn;mn-mn;1104;450;1251
+Nepali;ne;ne-np;1121;461;
+Norwegian - Bokmaal;nb;nb-no;1044;414;1252
+Norwegian - Nynorsk;nn;nn-no;2068;814;1252
+Occitan - France;;oc-fr;1154;482;
+Oriya;or;or-in;1096;448;
+Pashto - Afghanistan;;ps-af;1123;463;
+Polish;pl;pl-pl;1045;415;1250
+Portuguese - Brazil;pt;pt-br;1046;416;1252
+Portuguese - Portugal;pt;pt-pt;2070;816;1252
+Pular - Senegal;;ff-sn;2151;867;
+Punjabi;pa;pa-in;1094;446;
+Punjabi - Pakistan;;pa-pk;2118;846;
+Quechua - Bolivia;;quz-bo;1131;046B;
+Quechua - Ecuador;;quz-ec;2155;086B;
+Quechua - Peru;;quz-pe;3179;0C6B;
+Raeto-Romance;rm;rm-ch;1047;417;
+Romanian - Moldova;ro;ro-mo;2072;818;
+Romanian - Romania;ro;ro-ro;1048;418;1250
+Russian;ru;ru-ru;1049;419;1251
+Russian - Moldova;ru;ru-mo;2073;819;
+Sakha - Russia;;sah-ru;1157;485;
+Sami (Inari) - Finland;;smn-fi;9275;243B;
+Sami (Lule) - Norway;;smj-bo;4155;103B;
+Sami (Lule) - Sweden;;smj-SE;5179;143B;
+Sami (Northern) - Finland;;se-fi;3131;0C3B;
+Sami (Northern) - Sweden;;se-SE;2107;083B;
+Sami (Skolt) - Finland;;sms-fi;8251;203B;
+Sami (Southern) - Norway;;sma-no;6203;183B;
+Sami (Southern) - Sweden;;sma-se;7227;0C3B;
+Sami Lappish;;se-no;1083;043B;
+Sanskrit;sa;sa-in;1103;044F;
+Scottish Gaelic - United Kingdom;;gd-gb;1169;491;
+Serbian - Cyrillic;sr;sr-cyrl-sp;3098;0C1A;1251
+Serbian - Latin;sr;sr-latn-sp;2074;081A;1250
+Serbian (Cyrillic) - Bosnia and Herzegovina;;sr-cyrl-ba;7194;1C1A;
+Serbian (Cyrillic) - Montenegro;;sr-cyrl-me;12314;301A;
+Serbian (Cyrillic) - Serbia;;sr-cyrl-rs;10266;281A;
+Serbian (Latin) - Bosnia and Herzegovina;;sr-latn-ba;6170;181A;
+Serbian (Latin) - Montenegro;;sr-latn-me;11290;2C1A;
+Serbian (Latin) - Serbia;;sr-latn-rs;9242;241A;
+Sesotho (Sutu);;;1072;430;
+Sesotho sa Leboa - South Africa;;nso-za;1132;046C;
+Setsuana;tn;tn-za;1074;432;
+Setswana / Tswana - Botswana;;tn-bw;2098;832;
+Sindhi;sd;sd-in;1113;459;
+Sindhi - Pakistan;;sd-pk;2137;859;
+"Sinhala; Sinhalese";si;si-lk;1115;045B;
+Slovak;sk;sk-sk;1051;041B;1250
+Slovenian;sl;sl-sl;1060;424;1250
+Somali;so;so;1143;477;
+Sorbian;sb;sb-de;1070;042E;
+Spanish - Argentina;es;es-ar;11274;2C0A;1252
+Spanish - Bolivia;es;es-bo;16394;400A;1252
+Spanish - Chile;es;es-cl;13322;340A;1252
+Spanish - Colombia;es;es-co;9226;240A;1252
+Spanish - Costa Rica;es;es-cr;5130;140A;1252
+Spanish - Dominican Republic;es;es-do;7178;1C0A;1252
+Spanish - Ecuador;es;es-ec;12298;300A;1252
+Spanish - El Salvador;es;es-sv;17418;440A;1252
+Spanish - Guatemala;es;es-gt;4106;100A;1252
+Spanish - Honduras;es;es-hn;18442;480A;1252
+Spanish - Mexico;es;es-mx;2058;080A;1252
+Spanish - Nicaragua;es;es-ni;19466;4C0A;1252
+Spanish - Panama;es;es-pa;6154;180A;1252
+Spanish - Paraguay;es;es-py;15370;3C0A;1252
+Spanish - Peru;es;es-pe;10250;280A;1252
+Spanish - Puerto Rico;es;es-pr;20490;500A;1252
+Spanish - Spain;es;es-es;3082;0C0A;
+Spanish - Spain (Traditional);es;es-es_tradnl;1034;040A;1252
+Spanish - United States;;es-us;21514;540A;
+Spanish - Uruguay;es;es-uy;14346;380A;1252
+Spanish - Venezuela;es;es-ve;8202;200A;1252
+Swahili;sw;sw-ke;1089;441;1252
+Swedish - Finland;sv;sv-fi;2077;081D;1252
+Swedish - Sweden;sv;sv-se;1053;041D;1252
+Syriac;;syr-sy;1114;045A;
+Tajik;tg;tg-tj;1064;428;
+Tamazight (Latin) - Algeria;;tzm-dz;2143;085F;
+Tamil;ta;ta-in;1097;449;
+Tamil - Sri Lanka;;ta-lk;2121;849;
+Tatar;tt;tt-ru;1092;444;1251
+Telugu;te;te-in;1098;044A;
+Thai;th;th-th;1054;041E;
+Tibetan;bo;bo-cn;1105;451;
+Tigrinya - Eritrea;;ti-er;2163;873;
+Tigrinya - Ethiopia;;ti-et;1139;473;
+Tsonga;ts;ts;1073;431;
+Turkish;tr;tr-tr;1055;041F;1254
+Turkmen;tk;tk-tm;1090;442;
+Ukrainian;uk;uk-ua;1058;422;1251
+Unicode;;UTF-8;0;;
+Urdu;ur;ur-pk;1056;420;1256
+Urdu - (reserved);;ur-in;2080;820;
+Uyghur - China;;ug-cn;1152;480;
+Uzbek - Cyrillic;uz;uz-cyrl-uz;2115;843;1251
+Uzbek - Latin;uz;uz-latn-uz;1091;443;1254
+Valencian - Valencia;;ca-valencia;2051;803;
+Venda;;;1075;433;
+Vietnamese;vi;vi-vn;1066;042A;1258
+Welsh;cy;cy-gb;1106;452;
+Wolof - Senegal;;wo-sn;1160;488;
+Xhosa;xh;xh-za;1076;434;
+Yi - China;;ii-cn;1144;478;
+Yiddish;yi;yi;1085;043D;
+Yoruba - Nigeria;;yo-ng;1130;046A;
+Zulu;zu;zu-za;1077;435;

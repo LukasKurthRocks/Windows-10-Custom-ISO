@@ -1,0 +1,3 @@
+expand -f:* WindowsTH-RSAT_WS_1709-x64.msu ex\
+dism /online /Add-Package /PackagePath:"WindowsTH-KB2693643-x64.cab"
+dism.exe /online /add-package /packagepath:C:\RSAT\WindowsTH-KB2693643-x64.cab
