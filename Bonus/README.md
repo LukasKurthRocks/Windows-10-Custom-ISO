@@ -1,4 +1,4 @@
-# Windows-10-Builder
+# RSAT Gathering
 
 ## Allgemeines
 Hiermit lassen sich die Update-Dateien fetchen, wenn diese über Windows Update von Microsoft geladen werden. Ich brauche das nicht mehr und werde das auch nicht weiter fortführen. Normalerweise sollte man wohl die MS ISOs vom VS MSDN laden (Dev Account benötigt).
