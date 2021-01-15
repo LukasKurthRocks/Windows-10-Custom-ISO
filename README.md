@@ -48,7 +48,7 @@ Folgendes ist in diesem Projekt enthalten:
 **Achtung**: Ich habe vieles an meine Bedürfnisse angepasst, manches was ich in das Image mit hineinpacke wurde sogar entfernt.
 Da exe-Dateien in der Regel sehr groß sind, bleibt es jedem selbst überlassen diese für seine Zwecke hinzuzufügen / zu nutzen.
 
-**\Windows_10_Features**
+**\Bonus\Windows_10_Features**
 - Kleiner selbstgeschriebener API-Wrapper für die uupdump.ml Seite.
 - Ein Versuch die Language Pack Dateien von UUPDump.ml zu laden und zu implementieren.
   - Muss das aufgeben, da die Überprüfung der Möglichkeiten ohne die LP ISOs einfach zu lange dauern würde. Vorschläge sind natürlich gerne willkommen, auch wenn ich daran wahrscheinlich nichts mehr ändern werde.

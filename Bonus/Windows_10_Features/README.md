@@ -1,9 +1,10 @@
+# Windows 10 Features laden
+
 Ich lasse das jetzt erst einmal wieder. FODs mit in die ISO zu kriegen ist privat nicht drin.
 Ich glaube ich lasse den Stift da mal nach suchen. Ich werde mir bestimmte Seiten speichern und dann später da wieder rein schauen.
 Da gibts unter anderem einen Typen, der eine UWP App machen wollte.
 
 
-Später dann.
 
 PS.: Hier noch ein paar Informationen:
 Am besten das folgende ausführen, wenn man alle RSAT haben will:
